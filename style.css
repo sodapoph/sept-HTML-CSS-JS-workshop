@@ -1,0 +1,28 @@
+h1 {
+
+  color:red;
+  background-color: yellow;
+  font-family: "courier new";
+}
+
+body {
+  background-color: pink;
+
+}
+
+li {
+  background-color: white;
+  
+}
+
+#make-me-orange {
+  background-color: orange;
+}
+
+.make-me-red{
+  background-color: red;
+}
+
+img {
+  width: 100%
+}
